@@ -3,7 +3,7 @@
 # Project Basic Information
 # ================================
 project:
-  name: "🔥 Temperature Monitoring System (Verilog)"
+  name: "Temperature Monitoring System (Verilog)"
   description: >
     A beginner-friendly Verilog HDL simulation project modeling a temperature monitoring system.
     Simulates sensor data, monitors temperature thresholds, and prints status to terminal.
@@ -91,13 +91,5 @@ learning_outcomes:
   - Understanding stimulus-response verification concepts
   - Simulating hardware behavior in software
 
-# ================================
-# Author & Contribution Info
-# ================================
-author:
-  name: "Your Name Here"
-  license: "MIT (or your preferred license)"
-  github_repo: "https://github.com/your-username/temperature-monitoring-verilog"
-  contributions: "Pull requests and forks welcome!"
 
 
